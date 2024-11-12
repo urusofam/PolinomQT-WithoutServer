@@ -1,0 +1,9 @@
+C:/Users/urus-pc/Desktop/LETI/OOP/praktika4/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/praktika4.dir
+C:/Users/urus-pc/Desktop/LETI/OOP/praktika4/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/urus-pc/Desktop/LETI/OOP/praktika4/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/urus-pc/Desktop/LETI/OOP/praktika4/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/urus-pc/Desktop/LETI/OOP/praktika4/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/urus-pc/Desktop/LETI/OOP/praktika4/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/urus-pc/Desktop/LETI/OOP/praktika4/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/urus-pc/Desktop/LETI/OOP/praktika4/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/praktika4_autogen_timestamp_deps.dir
+C:/Users/urus-pc/Desktop/LETI/OOP/praktika4/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/praktika4_autogen.dir
